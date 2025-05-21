@@ -1,0 +1,27 @@
+train: ../train/images
+val:   ../valid/images
+test:  ../test/images
+
+nc: 19
+names:
+  [
+    'Biogás listo - Orgánico',
+    'Lata - Reciclable',
+    'No biodegradable - Inorgánico',
+    'Remolacha - Orgánico',
+    'Pimiento morrón - Orgánico',
+    'Botella - Reciclable',
+    'Repollo - Orgánico',
+    'Cartón - Reciclable',
+    'Zanahoria - Orgánico',
+    'Pepino - Orgánico',
+    'Huevo - Orgánico',
+    'Berenjena - Orgánico',
+    'Ajo - Orgánico',
+    'Botella de vidrio - Reciclable',
+    'Cebolla - Orgánico',
+    'Papa - Orgánico',
+    'Tomate - Orgánico',
+    'Calabacín - Orgánico',
+    'Papel - Reciclable'
+  ]
